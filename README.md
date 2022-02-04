@@ -3,3 +3,5 @@ PCA implementation from scratch on digit and human face dataset. Also comparison
 
 * to run: enter `code` folder first, then type the following command: `python3 assignment3.py`. 
 * Outputs are at the [report file](https://github.com/veyisTurgut/PCA-visualization/blob/master/report/report.pdf)
+
+* Mnist digist dataset can be found at : https://www.kaggle.com/oddrationale/mnist-in-csv
